@@ -1,6 +1,0 @@
-HI Hello Nammasthe Vanakkam
-<<<<<<< HEAD
-Updated from main branch.
-=======
-Updated data from master branch
->>>>>>> 712467359d50197163a50500af58125b7f2dce33
